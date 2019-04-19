@@ -1,0 +1,1 @@
+This code utilizes the BeautifulSoup4 library https://pypi.org/project/beautifulsoup4/ and as an example scrapes from floridaman.com (for fun).
